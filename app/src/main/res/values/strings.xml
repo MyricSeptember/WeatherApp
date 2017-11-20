@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WeatherAppDVT</string>
+    <string name="app_name">WeatherApp</string>
     <string name="title_activity">Open Weather</string>
     <string name="location_services_off">Location services are turned off</string>
     <string name="error_location_is_off">Your Location is turned off</string>
