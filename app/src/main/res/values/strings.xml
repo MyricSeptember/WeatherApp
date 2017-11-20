@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WeatherAppDVT</string>
+    <string name="title_activity">Open Weather</string>
+    <string name="location_services_off">Location services are turned off</string>
+    <string name="error_location_is_off">Your Location is turned off</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_permission_denied">Access to the location is required for this application to work</string>
+    <string name="fetching_location_please_wait">Getting your current location</string>
+    <string name="celsius">°C</string>
+    <string name="date_title">Date : </string>
+    <string name="maxTemp_title">Max : </string>
+    <string name="minTemp_title">Min : </string>
+    <string name="general_error">Sorry an error occurred please try again later</string>
+    <string name="no_internet_message">There\'s no internet connection</string>
+    <string name="there_is_no_data_to_display">There\'s no data to display!</string>
+    <string name="location_title">location</string>
+
+    //weather description
+    <string name="clear_sky">clear sky</string>
+    <string name="few_clouds">few clouds</string>
+    <string name="scattered_clouds">scattered clouds</string>
+    <string name="broken_clouds">broken clouds</string>
+    <string name="shower_rain">shower rain</string>
+    <string name="rain">rain</string>
+    <string name="thunderstorm">thunderstorm</string>
+    <string name="snow">snow</string>
+    <string name="mist">mist</string>
+    <string name="overcast_clouds">overcast clouds</string>
+
+</resources>
